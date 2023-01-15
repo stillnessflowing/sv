@@ -1,2 +1,2 @@
-# swe
-Swedish Translation of Stillness Flowing
+# Repository for the Swedish Translation of Stillness Flowing
+
